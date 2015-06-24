@@ -1,6 +1,8 @@
 # P2P Projects List
 
-A collection of peer-to-peer decentralized projects.
+A collection of peer-to-peer decentralized projects. Contact me to add your project!
+
+Categories:
 
 * [Communication](#communication)
 * [Finance](#finance)
