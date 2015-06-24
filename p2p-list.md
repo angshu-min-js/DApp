@@ -10,6 +10,7 @@ Categories:
 
 
 
+
 ## Communication
 
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
@@ -17,6 +18,9 @@ Decentralized websites using Bitcoin crypto and BitTorrent network.
 
 [**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
+
+[**YaCy**](http://yacy.net/en/index.html)
+P2P search engine.
 
 [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
