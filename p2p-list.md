@@ -41,8 +41,14 @@ Fun & safe messaging app for private conversations.
 [**ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
 
+[**Factom**](http://factom.org/)
+Decentralized data layer for the blockchain.
+
 [**Crypti**](https://crypti.me/)
 Building decentralized applications platform.
+
+[**WebRTC**](http://www.webrtc.org/)
+Provide browsers and mobile applications real-time P2P communication.
 
 
 ## Finance
@@ -53,11 +59,19 @@ Innovative payment network and a new kind of money.
 [**OpenBazaar**](https://openbazaar.org/)
 P2P marketplace for goods and services using Bitcoin.
 
+[**CoinAwesome**](http://coinawesome.com/)
+P2P platform for tipping on all of the web's sites.
+
+
 
 ## Data Transfer & Streamming
 
+[**IPFS**](http://ipfs.io/)
+P2P file system protocol.
+
 [**PeerCDN**](http://peercdn.com)
 A peer-to-peer CDN, using only JavaScript!
+
 
 [**BitTorrent**](http://www.bittorrent.com/)
 Protocol for file sharing that is used to distribute large amounts of data over the Internet.
