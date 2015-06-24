@@ -1,6 +1,6 @@
 # P2P Projects List
 
-Batch of peer-to-peer decentralized projects.
+A collection of peer-to-peer decentralized projects.
 
 * [Communication](#communication)
 * [Finance](#finance)
