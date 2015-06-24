@@ -9,9 +9,7 @@ Categories:
 * [Platforms](#platforms)
 * [Finance](#finance)
 * [Data Transfer & Streamming](#data-transfer--streamming)
-
-
-
+* [In Progress..](#in-progress--)
 
 
 ## Web
@@ -56,6 +54,9 @@ Provide browsers and mobile applications real-time P2P communication.
 [**Bitcoin**](https://bitcoin.org/en/)
 Innovative payment network and a new kind of money.
 
+[**LaZooz**](http://lazooz.org/)
+A decentralized Uber app.
+
 [**OpenBazaar**](https://openbazaar.org/)
 P2P marketplace for goods and services using Bitcoin.
 
@@ -72,7 +73,6 @@ P2P file system protocol.
 [**PeerCDN**](http://peercdn.com)
 A peer-to-peer CDN, using only JavaScript!
 
-
 [**BitTorrent**](http://www.bittorrent.com/)
 Protocol for file sharing that is used to distribute large amounts of data over the Internet.
 
@@ -84,3 +84,13 @@ Peer-to-peer network of Git repositories being shared over BitTorrent.
 
 [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
+
+
+
+# In Progress..
+
+[**MaidSAFE**](http://maidsafe.net/)
+A decentralised, end-to-end encrypted Internet.
+
+[**Synereo**](http://www.synereo.com/)
+Fully decentralized and distributed social platform.
