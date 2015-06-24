@@ -42,7 +42,7 @@ Fun & safe messaging app for private conversations.
 Blockchain-based virtual machine and Web 3.0 platform.
 
 [**Crypti**](https://crypti.me/)
-building decentralized applications.
+Building decentralized applications platform.
 
 
 ## Finance
@@ -51,7 +51,7 @@ building decentralized applications.
 Innovative payment network and a new kind of money.
 
 [**OpenBazaar**](https://openbazaar.org/)
-online marketplace enabling instant, decentralized trade using bitcoin.
+P2P marketplace for goods and services using Bitcoin.
 
 
 ## Data Transfer & Streamming
