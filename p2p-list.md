@@ -14,7 +14,7 @@ Batch of peer-to-peer decentralized projects.
 Decentralized websites using Bitcoin crypto and BitTorrent network.
 
 [**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
-P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+Send encrypted messages to another person or to many subscribers.
 
 [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
