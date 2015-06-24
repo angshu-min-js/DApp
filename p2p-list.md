@@ -9,7 +9,7 @@ Categories:
 * [Platforms](#platforms)
 * [Finance](#finance)
 * [Data Transfer & Streamming](#data-transfer--streamming)
-* [In Progress..](#in-progress--)
+* [In Progress..](#in-progress)
 
 
 ## Web
