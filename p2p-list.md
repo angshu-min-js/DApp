@@ -16,6 +16,9 @@ Categories:
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
 
+[**Project Maelstrom**](http://project-maelstrom.bittorrent.com/)
+Web browser for torrents.
+
 [**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
 
