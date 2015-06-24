@@ -2,7 +2,7 @@
 
 A collection of peer-to-peer decentralized projects. Contact me to add your project!
 
-## Categories:
+## Categories
 
 * [Web](#web)
 * [Communication](#communication)
@@ -74,7 +74,7 @@ P2P file system protocol.
 A peer-to-peer CDN, using only JavaScript!
 
 [**BitTorrent**](http://www.bittorrent.com/)
-Protocol for file sharing that is used to distribute large amounts of data over the Internet.
+File sharing protocol.
 
 [**Sync**](https://www.getsync.com/)
 Fast, private file sharing for teams and individuals.
