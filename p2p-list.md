@@ -4,6 +4,7 @@ A collection of peer-to-peer decentralized projects. Contact me to add your proj
 
 Categories:
 
+* [Web](#web)
 * [Communication](#communication)
 * [Finance](#finance)
 * [Data Transfer & Streamming](#data-transfer--streamming)
@@ -11,7 +12,7 @@ Categories:
 
 
 
-## Communication
+## Web
 
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
@@ -19,11 +20,15 @@ Decentralized websites using Bitcoin crypto and BitTorrent network.
 [**Project Maelstrom**](http://project-maelstrom.bittorrent.com/)
 Web browser for torrents.
 
-[**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
-Send encrypted messages to another person or to many subscribers.
-
 [**YaCy**](http://yacy.net/en/index.html)
 P2P search engine.
+
+
+
+## Communication
+
+[**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
+Send encrypted messages to another person or to many subscribers.
 
 [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
