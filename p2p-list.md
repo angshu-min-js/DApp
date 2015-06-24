@@ -2,7 +2,7 @@
 
 A collection of peer-to-peer decentralized projects. Contact me to add your project!
 
-Categories:
+## Categories:
 
 * [Web](#web)
 * [Communication](#communication)
@@ -12,7 +12,7 @@ Categories:
 * [In Progress..](#in-progress)
 
 
-## Web
+### Web
 
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
@@ -25,7 +25,7 @@ P2P search engine.
 
 
 
-## Communication
+### Communication
 
 [**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
@@ -34,7 +34,7 @@ Send encrypted messages to another person or to many subscribers.
 Fun & safe messaging app for private conversations.
 
 
-## Platforms ##
+### Platforms
 
 [**ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
@@ -49,7 +49,7 @@ Building decentralized applications platform.
 Provide browsers and mobile applications real-time P2P communication.
 
 
-## Finance
+### Finance
 
 [**Bitcoin**](https://bitcoin.org/en/)
 Innovative payment network and a new kind of money.
@@ -65,7 +65,7 @@ P2P platform for tipping on all of the web's sites.
 
 
 
-## Data Transfer & Streamming
+### Data Transfer & Streamming
 
 [**IPFS**](http://ipfs.io/)
 P2P file system protocol.
@@ -87,7 +87,7 @@ Streaming torrent client for node & the browser.
 
 
 
-# In Progress..
+### In Progress..
 
 [**MaidSAFE**](http://maidsafe.net/)
 A decentralised, end-to-end encrypted Internet.
