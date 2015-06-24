@@ -6,8 +6,10 @@ Categories:
 
 * [Web](#web)
 * [Communication](#communication)
+* [Platforms](#platforms)
 * [Finance](#finance)
 * [Data Transfer & Streamming](#data-transfer--streamming)
+
 
 
 
@@ -34,13 +36,22 @@ Send encrypted messages to another person or to many subscribers.
 Fun & safe messaging app for private conversations.
 
 
+## Platforms ##
+
+[**ethereum**](https://www.ethereum.org/)
+Blockchain-based virtual machine and Web 3.0 platform.
+
+[**Crypti**](https://crypti.me/)
+building decentralized applications.
+
+
 ## Finance
 
 [**Bitcoin**](https://bitcoin.org/en/)
 Innovative payment network and a new kind of money.
 
-[**BitcoinJS**](http://bitcoinjs.org/)
-A pure JavaScript Bitcoin library for node.js and browsers.
+[**OpenBazaar**](https://openbazaar.org/)
+online marketplace enabling instant, decentralized trade using bitcoin.
 
 
 ## Data Transfer & Streamming
