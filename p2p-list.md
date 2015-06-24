@@ -1,3 +1,11 @@
+# P2P Projects List
+
+Batch of peer-to-peer decentralized projects.
+
+* [Communication](#communication)
+* [Finance](#finance)
+* [Data Transfer & Streamming](#data-transfer--streamming)
+
 
 
 ## Communication
