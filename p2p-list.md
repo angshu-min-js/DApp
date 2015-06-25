@@ -9,6 +9,7 @@ A collection of peer-to-peer decentralized projects. Contact me to add your proj
 * [Platforms](#platforms)
 * [Finance](#finance)
 * [Data Transfer & Streamming](#data-transfer--streamming)
+* [Storage](#storage)
 * [In Progress..](#in-progress)
 
 
@@ -16,6 +17,12 @@ A collection of peer-to-peer decentralized projects. Contact me to add your proj
 
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
+
+[**Aether**](http://getaether.net/)
+Anonymous reddit without servers.
+
+[**twister**](http://twister.net.co/)
+P2P microblogging platform.
 
 [**Project Maelstrom**](http://project-maelstrom.bittorrent.com/)
 Web browser for torrents.
@@ -48,6 +55,12 @@ Building decentralized applications platform.
 [**WebRTC**](http://www.webrtc.org/)
 Provide browsers and mobile applications real-time P2P communication.
 
+[**telehash**](http://telehash.org/)
+Encrypted mesh protocol.
+
+[**Meshnet**](https://projectmeshnet.org/)
+Decentralized secure network.
+
 
 ### Finance
 
@@ -67,23 +80,32 @@ P2P platform for tipping on all of the web's sites.
 
 ### Data Transfer & Streamming
 
-[**IPFS**](http://ipfs.io/)
-P2P file system protocol.
-
 [**PeerCDN**](http://peercdn.com)
 A peer-to-peer CDN, using only JavaScript!
 
+[**Tribler**](https://www.tribler.org/howto.html)
+Search and download files anonymously.
+
 [**BitTorrent**](http://www.bittorrent.com/)
 File sharing protocol.
-
-[**Sync**](https://www.getsync.com/)
-Fast, private file sharing for teams and individuals.
 
 [**GitTorrent**](https://github.com/cjb/GitTorrent)
 Peer-to-peer network of Git repositories being shared over BitTorrent.
 
 [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
+
+
+### Storage
+
+[**Storj**](http://storj.io/)
+Decentralized cloud storage.
+
+[**Sync**](https://www.getsync.com/)
+Fast, private file sharing for teams and individuals.
+
+[**IPFS**](http://ipfs.io/)
+P2P file system protocol.
 
 
 
@@ -94,3 +116,6 @@ A decentralised, end-to-end encrypted Internet.
 
 [**Synereo**](http://www.synereo.com/)
 Fully decentralized and distributed social platform.
+
+[**OpenLibernet**](http://openlibernet.org/)
+Global mesh communication network.
