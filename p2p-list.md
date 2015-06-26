@@ -27,12 +27,18 @@ P2P microblogging platform.
 [**Project Maelstrom**](http://project-maelstrom.bittorrent.com/)
 Web browser for torrents.
 
+[**Freenet**](https://freenetproject.org/)
+Decentralized webwites network.
+
 [**YaCy**](http://yacy.net/en/index.html)
 P2P search engine.
 
 
 
 ### Communication
+
+[**Retroshare**](http://retroshare.sourceforge.net/)
+Secure sharing software for messages, forums and chats.
 
 [**Bitmessae**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
@@ -63,6 +69,9 @@ Encrypted mesh protocol.
 
 [**Meshnet**](https://projectmeshnet.org/)
 Decentralized secure network.
+
+[**GNUnet**](https://gnunet.org/)
+Secure framework for peer-to-peer networking.
 
 
 ### Finance
@@ -101,15 +110,17 @@ Streaming torrent client for node & the browser.
 
 ### Storage
 
+[**IPFS**](http://ipfs.io/)
+P2P file system protocol.
+
 [**Storj**](http://storj.io/)
 Decentralized cloud storage.
 
 [**Sync**](https://www.getsync.com/)
 Fast, private file sharing for teams and individuals.
 
-[**IPFS**](http://ipfs.io/)
-P2P file system protocol.
-
+[**Syncthing**](https://syncthing.net/)
+Private sync & file sharing for your files.
 
 
 ### In Progress..
