@@ -38,7 +38,7 @@ P2P search engine.
 Send encrypted messages to another person or to many subscribers.
 
 [**Tox**](https://tox.im/)
-Secure & open-source intstant messaging.
+Secure & open-source instant messaging.
 
 [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
