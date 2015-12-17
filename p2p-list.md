@@ -1,6 +1,8 @@
 # P2P Projects List
 
-A collection of peer-to-peer decentralized projects. Contact me to add your project!
+A collection of peer-to-peer decentralized projects. [Contact me](ms@development.co.il) to add your project!
+
+More project can be found here: https://www.gnunet.org/links/
 
 ## Categories
 
