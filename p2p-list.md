@@ -18,6 +18,9 @@ A collection of peer-to-peer decentralized projects. Contact me to add your proj
 [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
 
+[**I2P**](http://i2pproject.net)
+It's similar to Freenet, GNUnet and Tor.
+
 [**Aether**](http://getaether.net/)
 Anonymous reddit without servers.
 
