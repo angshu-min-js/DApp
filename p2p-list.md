@@ -119,6 +119,12 @@ P2P file system protocol.
 [**Storj**](http://storj.io/)
 Decentralized cloud storage.
 
+[**Tahoe-LAFS**](https://tahoe-lafs.org/)
+Decentralized secure filesystem.
+
+[**Sia**](http://sia.tech/)
+Enterprise-Grade Collaborative Cloud for Data Storage.
+
 [**Sync**](https://www.getsync.com/)
 Fast, private file sharing for teams and individuals.
 
